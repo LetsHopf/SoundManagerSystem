@@ -1,0 +1,20 @@
+{
+  "name": "com.letshoppidi.soundmanagersystem",
+  "version": "1.0.0",
+  "displayName": "Sound Manager System",
+  "description": "This package lets you easily create and manage SFX and music for your 2D or 3D game.",
+  "unity": "6000.0",
+  "documentationUrl": "https://yourdomain.com/docs",
+  "changelogUrl": "https://yourdomain.com/changelog",
+  "licensesUrl": "https://yourdomain.com/license",
+  "keywords": [
+    "SFX",
+    "Music",
+    "Audio",
+    "Sound"
+  ],
+  "author": {
+    "name": "LetsHoppidi"
+  },
+  "unityRelease": "44f1"
+}
